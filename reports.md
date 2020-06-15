@@ -1,30 +1,3 @@
----
-title: "MA202 Reports"
-author: Arpit Kaushal
-date: June 14, 2020
-output: pdf_document
----
-<!-- ---
-title: "MA202-Reports"
-output:
-	pdf_document:
-		toc: true
-		toc_depth: 3
-		number_sections: true
-		highlight: tango
-		latex_engine: pdflatex
---- -->
-<!-- ---
-html:
-  embed_local_images: true
-  embed_svg: true
-  offline: true
-  toc: true
-  title: MA202 Reports
-
-print_background: false
---- -->
-
 ># **MA202**
 	Arpit Kaushal - 18110024
 
