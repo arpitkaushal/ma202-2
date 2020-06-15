@@ -1,0 +1,10 @@
+---
+title: "MA202-Reports"
+output:
+pdf_document:
+toc: true
+toc_depth: 3
+number_sections: true
+highlight: tango
+latex_engine: pdflatex
+---
