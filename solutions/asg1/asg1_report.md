@@ -83,7 +83,7 @@ Initially, the current in the opposite (*w.r.t.* the direction assumed) directio
 Given, ${f(x) = 25x^{3} -6x^{2} +7x - 88}$ we need to find  Taylor Series Expansion ( ${0}$ through ${3}$ ) for ${f(3)}$. 
 
 Taylor Series Expansion - 
-$${f(x_{i+1}) = f(x_i) + f'(x_i)\Delta x + f''(x_i)\frac{{\Delta x}^{2}}{2!} + f'''(x)\frac{{\Delta x}^3}{3!} + ...}$$
+$${f(x_{i+1}) = f(x_i) + f'(x_i)\Delta x + f''(x_i)\frac{\Delta x^2} {2!} + f'''(x)\frac{\Delta x^3}{3!} + ...}$$
 
 Here, 
 &nbsp;&nbsp;${x_{i+1}=3}$
