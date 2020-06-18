@@ -59,7 +59,7 @@ $x= \pm0.577350269$ <br>
 So, when we try to find to $f'(x)$ at $x=0.577$, we realize that we're close to the root of the function, and it basically blows up. Here's what the plot of derivative looks like, <br><br>
 
 <div align="center">
-<img align="center"  src="/assets/tut1_2.jpg" title="Derivative of f(x)"><br>
+<img src="/assets/tut1_2.jpg" title="Derivative of f(x)"><br>
 </div>
 
 Hence, we expect, $f'(0.577)$ to be really large value.<br>

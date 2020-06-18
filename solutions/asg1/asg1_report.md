@@ -70,8 +70,8 @@ ${t_{final} = 0.1s}$
 
 ### Plot
 <div align="center">
-<img align="center" src="/assets/asg1_1-1.jpg" width="600px" height="450px">
-<img align="center" src="/assets/asg1_1-2.jpg" width="600px" height="450px">
+<img src="/assets/asg1_1-1.jpg" width="600px" height="450px">
+<img src="/assets/asg1_1-2.jpg" width="600px" height="450px">
 </div>
 
 ### Observation
