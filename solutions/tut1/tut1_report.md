@@ -43,7 +43,7 @@ To observe the efficiency of Euler's method, the Temperature has also been calcu
 Euler's method works sufficiently well, even when the step size chosen in our case was  big (10% of total time plotted). 
 
 ### MATLAB Code
-*Note: Code also present in the root folder, named as `tut1_1.m `
+>*Note: Code also present in the root folder, named as `tut1_1.m `*
 
 @import "/assets/tut1_1.m" {class="line-numbers"}
 
