@@ -8,9 +8,7 @@ html:
 print_background: false
 ---
 
-># **MA202 Tutorial 1**
-    Arpit Kaushal - 18110024
-    Date - 12/06/2020    
+># **MA202**   
 
 >### Table of Contents
 <!-- Start Document Outline -->
