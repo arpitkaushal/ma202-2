@@ -24,7 +24,7 @@ We're given an RLC Circuit, and we have to find out (approximately) the `current
 Initially the capacitor has a charge ${q = 1C}$, which then discharges to set up a current in the branch. To calculate current we apply  *Kirchoff's Loop Law* in the branch by assuming a direction of the current.
 
 <div align="center">
-<img src="/assets/asg1_1-0.jpg">
+<img src="/assets/asg1_1-0.JPG">
 </div>
 
 
