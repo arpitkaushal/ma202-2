@@ -12,6 +12,10 @@ print_background: false
 ># **MA202**
 	Arpit Kaushal - 18110024
 
+Wait,
+```math
+T= totally 
+```
 # **Tutorial 1**
     Date - 12/06/2020    
 
