@@ -1,12 +1,3 @@
----
-html:
-  embed_local_images: true
-  embed_svg: true
-  offline: true
-  toc: true
-
-print_background: false
----
     Arpit Kaushal - 18110024
     Date - 12/06/2020    
 
