@@ -13,7 +13,7 @@
 The problem describes a non linear spring. A ball is dropped onto the spring from a height ${h \;\text{metres}}$ above it. The spring compresses by a maximum of distance ${d\;\text{metres}}$.
 
 <div align="center">
-<img src="assets/tut2_1-0.jpg" title="Energy of the System vs d">
+<img src="assets/tut2_1-0.JPG" title="Energy of the System vs d">
 </div>
 
 The resistive force ${F}$ offered by the spring is non linear in nature. Precisely, $${F = -(k_1d + k_2d^\frac{3}{2})}$$ which results in the energy ${E}$ of system as follows, $${E(d) = \frac{2k_2d^{\frac{5}{2}}}{5} + \frac{1}{2}k_1d^{2} - mgd - mgh }$$ We want to find ${d}$ such that energy of mentioned system is minimum, $i.e.$ set ${E(d)=0}$ and solve for ${d}$. We attempt to do this by three methods.
