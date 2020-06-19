@@ -37,7 +37,7 @@ So substituting,  $$\frac{dT}{dt} = \frac{T(i+1) - T(i)}{\Delta t}$$ in the abov
 
 ### Plot
 To observe the efficiency of Euler's method, the Temperature has also been calculated analytically at different instants.    
-@import "/assets/tut1_1.jpg" {title="Temperature of Coffee Cup as a Function of Time"} 
+@import "assets/tut1_1.jpg" {title="Temperature of Coffee Cup as a Function of Time"} 
 
 ### Observation
 Euler's method works sufficiently well, even when the step size chosen in our case was  big (10% of total time plotted). 
@@ -45,7 +45,7 @@ Euler's method works sufficiently well, even when the step size chosen in our ca
 ### MATLAB Code
 >*Note: Code also present in the root folder, named as `tut1_1.m `*
 
-@import "/assets/tut1_1.m" {class="line-numbers" as="MATLAB"}
+@import "assets/tut1_1.m" {class="line-numbers" as="MATLAB"}
 
 ## Problem T2
 
@@ -59,7 +59,7 @@ $x= \pm0.577350269$ <br>
 So, when we try to find to $f'(x)$ at $x=0.577$, we realize that we're close to the root of the function, and it basically blows up. Here's what the plot of derivative looks like, <br><br>
 
 <div align="center">
-<img src="/assets/tut1_2.JPG" title="Derivative of f(x)"><br>
+<img src="assets/tut1_2.JPG" title="Derivative of f(x)"><br>
 </div>
 
 Hence, we expect, $f'(0.577)$ to be really large value.<br>

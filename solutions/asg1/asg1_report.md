@@ -24,7 +24,7 @@ We're given an RLC Circuit, and we have to find out (approximately) the `current
 Initially the capacitor has a charge ${q = 1C}$, which then discharges to set up a current in the branch. To calculate current we apply  *Kirchoff's Loop Law* in the branch by assuming a direction of the current.
 
 <div align="center">
-<img src="/assets/asg1_1-0.JPG">
+<img src="assets/asg1_1-0.JPG">
 </div>
 
 
@@ -54,7 +54,7 @@ ${t_{final} = 0.1s}$
 </br> -->
 
 ### MATLAB Code
-@import "/assets/asg1_1.m" {as="MATLAB" class="line-numbers" line_end=39}
+@import "assets/asg1_1.m" {as="MATLAB" class="line-numbers" line_end=39}
 
 <!-- <br>
 <br>
@@ -70,8 +70,8 @@ ${t_{final} = 0.1s}$
 
 ### Plot
 <div align="center">
-<img src="/assets/asg1_1-1.jpg" width="600px" height="450px">
-<img src="/assets/asg1_1-2.jpg" width="600px" height="450px">
+<img src="assets/asg1_1-1.jpg" width="600px" height="450px">
+<img src="assets/asg1_1-2.jpg" width="600px" height="450px">
 </div>
 
 ### Observation
